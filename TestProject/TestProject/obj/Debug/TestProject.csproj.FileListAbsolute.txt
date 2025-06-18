@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Dell\source\repos\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\Dell\source\repos\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Dell\source\repos\TestProject\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\Dell\source\repos\TestProject\TestProject\obj\Debug\TestProject.pdb
